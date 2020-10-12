@@ -1,0 +1,8 @@
+Print my name.	Alexander
+How old am i?	25
+How are u?	I am feeling great today Alex, how about you?
+Say hello.	Hello Alex
+Question	Answer
+what do u think about AI?	Artificial Intelligence is a huge field. Arguably, the goal of artificial intelligence is to create a machine capable of performing the tasks that we associate with intelligence and capable of passing a sophisticated “Turing test”.
+whats ur name?	i am just a personal computer.
+do u like technology?	of course.

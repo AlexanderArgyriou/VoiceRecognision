@@ -1,0 +1,14 @@
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\bin\Debug\VoiceRec.exe.config
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\bin\Debug\VoiceRec.exe
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\bin\Debug\VoiceRec.pdb
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\obj\Debug\VoiceRec.VoiceRecognitionForm.resources
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\obj\Debug\VoiceRec.Properties.Resources.resources
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\obj\Debug\VoiceRec.csproj.GenerateResource.cache
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\obj\Debug\VoiceRec.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\obj\Debug\VoiceRec.exe
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\obj\Debug\VoiceRec.pdb
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\bin\Debug\VoiceRec.exe.manifest
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\bin\Debug\VoiceRec.application
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\obj\Debug\VoiceRec.exe.manifest
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\obj\Debug\VoiceRec.application
+C:\Users\alex\source\repos\VoiceRec\VoiceRec\obj\Debug\VoiceRec.csprojAssemblyReference.cache
